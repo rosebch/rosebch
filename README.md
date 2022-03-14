@@ -1,6 +1,6 @@
 ## 👋  Hey! Nice to see you, I am Rose!
 
-- 👔 &nbsp;I'm currently working as web-developer 
+- 👔 &nbsp;I'm currently working as a web-developer 
 - 🏄 &nbsp;I work daily with HTML, CSS, JavaScript, WordPress, Tilda to create beautiful websites
 - 🚀 &nbsp;I am learning React, Redux to dive deep into front-end
 
